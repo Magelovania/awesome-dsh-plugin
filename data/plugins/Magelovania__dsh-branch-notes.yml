@@ -1,0 +1,6 @@
+url: https://github.com/Magelovania/dsh-branch-notes
+name: Magelovania/dsh-branch-notes
+category: ui
+description:
+  en: "Nested branch-card writing board for screenwriting and TRPG prep, with outline columns, envelope highlighting, drag-to-reparent and AI that runs on the built-in model credentials without an API key."
+  zh: "一层一列的枝条笔记面板：包络色带、长按拖动换父枝、AI 直接使用 Harness 内置模型，无需填写 API Key。"
